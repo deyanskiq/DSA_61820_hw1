@@ -1,4 +1,0 @@
-chocolate 40 2
-golden-horn 30 5
-apple 50 10
-Skyrim 10 5
